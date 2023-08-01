@@ -4,5 +4,5 @@ Welcome to my portfolio website! 😄👋
 - Building my portfolio website has been an enriching journey that has combined user research methodologies with web development skills.
  <img width="938" alt="image" src="https://github.com/anilk-anusha/myPortfolioWebsite/assets/130001836/04dfed8e-df79-4f5a-95f8-f5a432edfe14">
 
-- Check it out here: 
+- Check it out here: https://anusha-anilkumar.netlify.app/
 
