@@ -743,7 +743,7 @@ p {
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
-figcaption .text-center {
+figcaption {
   text-align: center!important;
 }
 
