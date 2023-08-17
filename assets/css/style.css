@@ -743,6 +743,11 @@ p {
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
+figcaption .text-center {
+  text-align: center!important;
+}
+
+
 .portfolio-details {
   padding-top: 40px;
 }
