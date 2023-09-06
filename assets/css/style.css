@@ -42,18 +42,21 @@ h4 {
   font-size: 16px;
   font-weight: 600;
 }
+
 h5 {
   color: #6a6a6a;
   font-size: 12px;
   font-weight: 400;
   line-height: 20px;
 }
+
 h6 {
   color: #6a6a6a;
   font-size: 12px;
   font-weight: 400;
   line-height: 20px;
 }
+
 a {
   color: #292929;
   text-decoration: none !important;
@@ -777,11 +780,12 @@ figcaption {
   width: 50%;
 }
 
-.description-list{
+.description-list {
   list-style: none;
   padding: 0;
   margin-top: 0%;
 }
+
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #0d4591;
 }
@@ -963,6 +967,7 @@ blockquote {
 .email-link:hover {
   color: #0d4591;
 }
+
 #footer {
   background: #f7f7f7;
   padding-top: 50px;
