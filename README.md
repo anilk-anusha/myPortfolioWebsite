@@ -43,7 +43,7 @@ The website acts as a comprehensive portfolio, showcasing a collection of projec
 - CSS3
 - JavaScript ES6
 - Bootstrap v5.3.0
-- 
+
 ## Setup
 
 - Set up locally on VSCode
