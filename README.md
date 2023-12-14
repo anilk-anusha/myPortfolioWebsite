@@ -46,11 +46,11 @@ The website acts as a comprehensive portfolio, showcasing a collection of projec
 
 ## Setup
 
-- To set up this project locally on VSCode:
-1. Clone the repository.
-2. Open the project in VSCode.
+To set up this project locally on VSCode:
+- Clone the repository.
+- Open the project in VSCode.
 
-- To view the website, visit [Portfolio Website](https://anusha-anilkumar.netlify.app/).
+To view the website, visit [Portfolio Website](https://anusha-anilkumar.netlify.app/).
 
 ## Status
 
