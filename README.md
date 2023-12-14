@@ -46,14 +46,17 @@ The website acts as a comprehensive portfolio, showcasing a collection of projec
 
 ## Setup
 
-- Set up locally on VSCode
+- To set up this project locally on VSCode:
+1. Clone the repository.
+2. Open the project in VSCode.
+
 - To view the website, visit [Portfolio Website](https://anusha-anilkumar.netlify.app/).
 
 ## Status
 
 Project Status: Functional but Evolving
 
-The website is currently live and functional, showcasing a selection of projects and skill sets. However, ongoing improvements and expansions are in the pipeline to enhance its functionality and visual appeal.
+The website is currently live and functional, showcasing projects and my skill sets. However, ongoing improvements and expansions are in the pipeline to enhance its functionality and visual appeal.
 
 ## References
 
